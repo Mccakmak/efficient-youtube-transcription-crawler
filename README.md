@@ -44,7 +44,6 @@ If you use this project in your research, please cite the following works:
   organization = {IEEE}
 }
 
-```bibtex
 @inproceedings{cakmak2023adopting,
   title     = {Adopting parallel processing for rapid generation of transcripts in multimedia-rich online information environment},
   author    = {Cakmak, Mert Can and Okeke, Obianuju and Spann, Billy and Agarwal, Nitin},
